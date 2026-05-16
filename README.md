@@ -74,6 +74,10 @@ Simply use this [template](https://github.com/SAP-samples/ui5-exercises-codejam/
 
 Thank you!
 
+## Recent Updates
+
+- **Node.js 22.x LTS**: The project has been upgraded from Node.js 18 to Node.js 22.x LTS. All devcontainer configurations, documentation, and dependencies have been updated accordingly. Please ensure you are using Node.js 22 or higher when following the exercises.
+
 ## Support
 
 Support for the content in this repository is available during SAP CodeJam events, for which this content has been designed. Otherwise, this content is provided 'as-is' with no other support.
