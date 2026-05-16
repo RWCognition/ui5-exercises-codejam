@@ -6,11 +6,8 @@
 	"dev:mock": "ui5 serve --open \"test/mockServer.html\""
 
   },
-  "engines": {
-    "node": ">=22.0.0"
-  },
   "devDependencies": {
-    "@ui5/cli": "^4",
+    "@ui5/cli": "^3",
     "@sap/ux-ui5-tooling": "^1"
   }
 }
