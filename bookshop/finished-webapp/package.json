@@ -7,7 +7,7 @@
 
   },
   "devDependencies": {
-    "@ui5/cli": "^4",
+    "@ui5/cli": "^3",
     "@sap/ux-ui5-tooling": "^1"
   }
 }

@@ -1,6 +1,6 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.187.0/containers/javascript-node/.devcontainer/base.Dockerfile
 
-# [Choice] Node.js version: 16, 14, 12
+# [Choice] Node.js version: 18, 20, 22
 ARG VARIANT="18-buster"
 FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
 
