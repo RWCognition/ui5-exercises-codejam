@@ -1,7 +1,7 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.187.0/containers/javascript-node/.devcontainer/base.Dockerfile
 
-# [Choice] Node.js version: 18, 20, 22
-ARG VARIANT="18-buster"
+# [Choice] Node.js version: 22, 20, 18
+ARG VARIANT="22-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}
 
 # Prepare for apt-based install of Cloud Foundry CLI by adding Cloud Foundry Foundation public key & package repository (see https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
