@@ -7,7 +7,10 @@
 
   },
   "devDependencies": {
-    "@ui5/cli": "^4",
-    "@sap/ux-ui5-tooling": "^1"
+    "@ui5/cli": "^4.0.53",
+    "@sap/ux-ui5-tooling": "^1.24.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
