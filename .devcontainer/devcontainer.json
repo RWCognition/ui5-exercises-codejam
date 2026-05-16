@@ -4,7 +4,7 @@
 	"name": "SAP UI5 CodeJam Exercises Devcontainer",
 	"build": {
 		"dockerfile": "Dockerfile",
-		// Update 'VARIANT' to pick a Node version: 18, 20, 22
+		// Update 'VARIANT' to pick a Node version: 20, 22
 		"args": { "VARIANT": "22" }
 	},
 
